@@ -5,6 +5,7 @@ cachetools==6.2.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
 click==8.2.1
+gdown==5.2.0
 gitdb==4.0.12
 GitPython==3.1.45
 idna==3.10
@@ -41,3 +42,4 @@ tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
 wheel==0.45.1
+
